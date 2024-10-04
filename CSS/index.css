@@ -1,4 +1,5 @@
-  *{
+ 
+*{
             box-sizing: border-box;
             margin: 10;
             padding: 15;
@@ -8,7 +9,7 @@
         }
 
         body{
-            background-image: url(espacio.jpg) ;
+            background-image: url(./img/espacio.jpg) ;
             background-repeat: no-repeat;
             background-size: cover;
         }
